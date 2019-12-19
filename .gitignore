@@ -1,0 +1,9 @@
+# Jekyll Ignore
+_site
+.DS_Store
+*.swp
+.sass-cache
+
+# Editor's and IDE's Ignore
+.history
+.idea
