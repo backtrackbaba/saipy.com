@@ -6,7 +6,7 @@ logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 baseurl:
 production_url: https://saipy.com/
-disqus: ""
+disqus: "saipy"
 mailchimp_url: "https://saipy.us4.list-manage.com/subscribe/post?u=6b7e15cc06544df68165a85c9&amp;id=6d32a09d3d"
 cover_image: bg4.jpg
 # Add your GA Tracking Id
@@ -26,7 +26,9 @@ contact_page_description: "Please fill in the form below to contact. I usually r
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: "sai_cosmo"
+twitter:
+  username: sai_cosmo
+  card: summary
 facebook: "sai.cosmo"
 github: "backtrackbaba"
 codepen:
