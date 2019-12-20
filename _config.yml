@@ -1,0 +1,74 @@
+# Site setings
+name: "Saipy's Awesome Blog!"
+description: "This is a simple blog of Saiprasad Balasubramanian"
+meta_description: "Simple Blog of a developer jotting down his thoughts!"
+logo: "assets/images/logo.png"
+favicon: "assets/images/favicon.ico"
+baseurl:
+production_url: https://saipy.com/
+disqus: ""
+mailchimp_url: "https://saipy.us4.list-manage.com/subscribe/post?u=6b7e15cc06544df68165a85c9&amp;id=6d32a09d3d"
+cover_image: bg4.jpg
+# Add your GA Tracking Id
+ga_analytics: "UA-46861272-4"
+
+# Author
+author:
+  name: "Saiprasad Balasubramanian"
+  image: "saiprasad.png"
+  greetings: "Hi there!"
+  description: "My name is Saiprasad Balasubramanian. I'm a backend developer based in Mumbai, India. It’s nice to meet you."
+  bio: "Sai is a backend developer with over 2 years of experience. He believes in being language agnostic developer."
+
+# Contact form setings
+email: sai.cosmo@gmail.com
+contact_page_description: "Please fill in the form below to contact. I usually reply within 2-3 working days"
+thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+
+# Social links
+twitter: "sai_cosmo"
+facebook: "sai.cosmo"
+github: "backtrackbaba"
+codepen:
+dribbble:
+medium: "@sai.cosmo"
+instagram:
+pinterest:
+linkedin: "saiprasadbala"
+producthunt:
+stackoverflow: "8044551"
+quora: "Saiprasad-Balasubramanian-1"
+dev-to: "backtrackbaba"
+
+# Navigation
+navigation:
+  - text: About
+    url: /about/
+  - text: Portfolio
+    url: https://saiprasad.io
+  - text: Contact Me
+    url: /contact/
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
