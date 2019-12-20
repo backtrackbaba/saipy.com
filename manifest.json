@@ -1,0 +1,21 @@
+{
+  "name": "SaiPy's Blog",
+  "short_name": "SaiPy",
+  "icons": [
+    {
+      "src": "assets/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#4285f4",
+  "background_color": "#4285f4",
+  "display": "standalone"
+}
