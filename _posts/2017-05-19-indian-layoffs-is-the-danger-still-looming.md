@@ -4,6 +4,7 @@ title:  "Indian Layoffs, Is the danger still looming?"
 tags: [ Upskill, General, Development ]
 featured_image_thumbnail: assets/images/posts/2017/job-cut-thumbnail.jpg
 featured_image: assets/images/posts/2017/job-cut.jpeg
+image: assets/images/posts/2017/job-cut.jpeg
 ---
 
 

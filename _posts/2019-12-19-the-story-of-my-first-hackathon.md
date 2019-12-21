@@ -4,6 +4,7 @@ title: 'The story of my first hackathon | 1 hackathon : 48 hours : Immeasurabl
 tags: [General, Learnings, Tips]
 featured_image_thumbnail: assets/images/posts/2019/hk4-thumbnail.jpg
 featured_image: assets/images/posts/2019/hk4.jpeg
+image: assets/images/posts/2019/hk4.jpeg
 featured: true
 hidden: true
 ---
