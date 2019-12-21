@@ -3,6 +3,7 @@ _site
 .DS_Store
 *.swp
 .sass-cache
+.jekyll-cache
 
 # Editor's and IDE's Ignore
 .history
