@@ -19,6 +19,7 @@ author:
   greetings: "Hi there!"
   description: "My name is Saiprasad Balasubramanian. I'm a backend developer based in Mumbai, India. It’s nice to meet you."
   bio: "Sai is a backend developer with over 2 years of experience. He believes in being language agnostic developer."
+  twitter: sai_cosmo
 
 # Contact form setings
 email: sai.cosmo@gmail.com
@@ -42,6 +43,19 @@ stackoverflow: "8044551"
 quora: "Saiprasad-Balasubramanian-1"
 dev-to: "backtrackbaba"
 
+
+social:
+  name: Saiprasad Balasubramanian
+  links:
+    - https://twitter.com/sai_cosmo
+    - https://www.facebook.com/sai.cosmo
+    - https://www.linkedin.com/in/saiprasadbala
+    - https://github.com/backtrackbaba
+    - https://medium.com/@sai.cosmo
+    - https://stackoverflow.com/users/8044551
+    - https://www.quora.com/profile/Saiprasad-Balasubramanian-1
+    - https://dev.to/backtrackbaba
+
 # Navigation
 navigation:
   - text: About
@@ -57,6 +71,7 @@ plugins_dir:
   - jekyll-tagsgenerator
   - jekyll-seo-tag
   - jekyll-sitemap
+
 
 # Pagination
 paginate: 5

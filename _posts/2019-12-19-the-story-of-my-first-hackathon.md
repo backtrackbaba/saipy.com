@@ -2,8 +2,8 @@
 layout: post
 title: 'The story of my first hackathon | 1 hackathon : 48 hours : Immeasurable learnings'
 tags: [General, Learnings, Tips]
-featured_image_thumbnail: assets/images/posts/2019/hackathon-cover-thumbnail.jpg
-featured_image: assets/images/posts/2019/hackathon-cover.jpg
+featured_image_thumbnail: assets/images/posts/2019/hk4-thumbnail.jpg
+featured_image: assets/images/posts/2019/hk4.jpeg
 featured: true
 hidden: true
 ---
@@ -16,8 +16,7 @@ Back in 2017, I was exploring the world of machine learning. Machine Learning, D
 
 While going through the instructor-led offline boot camp at GA, we had a hackathon mid syllabus to test the extent of our knowledge and show us where we truly stand. Working on a fin-tech based problem statement I was very much out of my comfort zone but our team of 5 had a good mix of technical knowledge and domain expertise and together we were able to pull off a brilliant performance after spending 2 whole days at the campus. In the week after the hackathon, I had some me-time to evaluate where I stood, what went right and what could I improve for similar events in the future. I quickly started noting down my thoughts and within a few minutes I had 14 points listed. After evaluating them again I decided to share it with the peers in my cohort. I'm someone who overthinks a lot of things but decided to go ahead with it and within minutes I started getting a good amount of responses which boosted my confidence a lot. Peers in my cohort poured their thoughts too and suggested me to write a blog and share this nugget of wisdom which has been on my TODO list for a long long time!
 
-{% include image-caption.html imageurl="assets/images/posts/2019/ga-group.jpg" 
-title="WhatsApp Images" %}
+{% include image-caption.html imageurl="assets/images/posts/2019/ga-group.jpg" title="WhatsApp Images" %}
 
 <br>
 Here are the points that came out of that eventful weekend:
@@ -57,8 +56,12 @@ At some point in the hackathon, you would have made a basic list of features req
 **7) Understand the team dynamics before you start**
 
 Your team could be coming from diverse backgrounds with varying skill sets. Not everybody would be a hardcode coder. Understand what people's strengths and weaknesses are and distribute work accordingly.
-Ex: We were very lucky to have two members of our team from a fin-tech background which provided us the domain expertise which we needed
 
+Ex: We were very lucky to have two members  of our team , [Rajesh](https://www.linkedin.com/in/rajesh-upadhyay-9783077b/) and [Abhinav](https://www.linkedin.com/in/abhinav-anand-a298064a/) from a fin-tech background which provided us the domain expertise which we needed while [Sandip](https://www.linkedin.com/in/sandiprb), [Yuvraj](https://www.linkedin.com/in/yuvraj-kale-b440738/) and I brought our knowledge of software and product development to the table.
+
+{% include image-caption.html imageurl="assets/images/posts/2019/hk2.jpeg" title="Team Discussion" %}
+
+<br>
 
 **8) Keep the big guns handy!**
 
@@ -79,8 +82,12 @@ The best example of this is the Netflix Prize 2009 $1 Million winners whose algo
 **11) Document EVERYTHING!**
 
 Document EVERYTHING. Don't document only the code which makes the final cut for the presentation, document your failures too. It'll help you in the long run. You don't need to publicize it, keep it for internal reference. A few years down the line this shows how you have grown over the years as well as what mistakes you shouldn't repeat.
+
 P.S: This was my way of documenting stuff. This blog post was initially nothing more than 14 points
 
+{% include image-caption.html imageurl="assets/images/posts/2019/hk3.jpeg" title="Team Discussion" %}
+
+<br>
 
 **12) Spend time understanding the data**
 
@@ -90,13 +97,14 @@ In this case, we had a week to explore the data and think about it, in competiti
 
 **13) Move beyond the traditional Data Visualization libraries**
 
-Explore visualization techniques beyond matplotlib or seaborn. Check out d3.js (ex: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ ) and other libraries built on top of it.
+Explore visualization techniques beyond matplotlib or seaborn. Check out d3.js (ex: [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) ) and other libraries built on top of it.
 
 
 **14) DEMO!!!!**
 
-In my opinion, the best demo is when you don't give a demo! The most powerful demo is when you give control to the audience/judges to do it themselves! One of the things that you could do is create a web app that consumes your models and gives you results on the app itself providing a seamless and easily usable way for your end-users to consume your application. Bonus points for hosting the same on a remote server! In our case, we had Sandip Baradiya with us who has extensive experience in developing Django && React-based applications. On the last day, he quickly whipped up an application that we used during our demo.
+In my opinion, the best demo is when you don't give a demo! The most powerful demo is when you give control to the audience/judges to do it themselves! One of the things that you could do is create a web app that consumes your models and gives you results on the app itself providing a seamless and easily usable way for your end-users to consume your application. Bonus points for hosting the same on a remote server! In our case, we had [Sandip Baradiya](https://www.linkedin.com/in/sandiprb/) with us who has extensive experience in developing Django && React-based applications. On the last day, he quickly whipped up an application that we used during our demo.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kqqc3kIa-7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **15) Make sense of evaluation criteria**
 
@@ -106,9 +114,17 @@ Know the evaluation criteria of the competition and focus on everything accordin
 **16) Model reasoning**
 
 Have reasoning ready for why you chose algorithm A over algorithm B. This is usually asked by the judges while evaluating you and also to detect plagiarism.
+
 P.S: Your documentation helps a lot in this case.
 
 
 **17) Document the performance of the model at every stage and not just code.**
 
 Documenting metrics of each model helps you in analyzing how accurate/right your end solution is as compared to the other solutions that you had thought of.
+
+I would also like to thank a good friend of mine [Mohammed Sunasra](https://www.linkedin.com/in/mohammed-sunasra/) for adding points 15 through 17
+
+{% include image-caption.html imageurl="assets/images/posts/2019/hk5.jpeg" 
+title="Participant's Group Photo" %}
+
+<br>
