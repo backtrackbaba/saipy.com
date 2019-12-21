@@ -5,7 +5,7 @@ meta_description: "Simple Blog of a developer jotting down his thoughts!"
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 baseurl:
-production_url: https://saipy.com/
+production_url: https://saipy.com
 disqus: "saipy"
 mailchimp_url: "https://saipy.us4.list-manage.com/subscribe/post?u=6b7e15cc06544df68165a85c9&amp;id=6d32a09d3d"
 cover_image: bg4.jpg
@@ -22,13 +22,13 @@ author:
   twitter: sai_cosmo
 
 # Contact form setings
-email: sai.cosmo@gmail.com
+email: "sai.cosmo@gmail.com"
 contact_page_description: "Please fill in the form below to contact. I usually reply within 2-3 working days"
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
 twitter:
-  username: sai_cosmo
+  username: "sai_cosmo"
   card: summary
 facebook: "sai.cosmo"
 github: "backtrackbaba"
@@ -71,10 +71,6 @@ plugins_dir:
   - jekyll-tagsgenerator
   - jekyll-seo-tag
   - jekyll-sitemap
-
-
-plugins:
-  - jekyll-target-blank
 
 # Pagination
 paginate: 5
