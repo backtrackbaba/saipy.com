@@ -73,6 +73,9 @@ plugins_dir:
   - jekyll-sitemap
 
 
+plugins:
+  - jekyll-target-blank
+
 # Pagination
 paginate: 5
 paginate_path: /page:num/
