@@ -17,7 +17,7 @@ Back in 2017, I was exploring the world of machine learning. Machine Learning, D
 
 While going through the instructor-led offline boot camp at GA, we had a hackathon mid syllabus to test the extent of our knowledge and show us where we truly stand. Working on a fin-tech based problem statement I was very much out of my comfort zone but our team of 5 had a good mix of technical knowledge and domain expertise and together we were able to pull off a brilliant performance after spending 2 whole days at the campus. In the week after the hackathon, I had some me-time to evaluate where I stood, what went right and what could I improve for similar events in the future. I quickly started noting down my thoughts and within a few minutes I had 14 points listed. After evaluating them again I decided to share it with the peers in my cohort. I'm someone who overthinks a lot of things but decided to go ahead with it and within minutes I started getting a good amount of responses which boosted my confidence a lot. Peers in my cohort poured their thoughts too and suggested me to write a blog and share this nugget of wisdom which has been on my TODO list for a long long time!
 
-{% include image-caption.html imageurl="assets/images/posts/2019/ga-group.jpg" title="WhatsApp Images" %}
+{% include image-caption.html imageurl="assets/images/posts/2019/ga-group.jpeg" title="WhatsApp Images" %}
 
 <br>
 Here are the points that came out of that eventful weekend:
