@@ -2,6 +2,7 @@
 layout: page
 title: About Saiprasad
 featured_image: /assets/images/pages/saiprasad-full.jpg
+permalink: /about
 ---
 
 I've been passionate about coding right from my childhood. I still remember my tryst with coding which started with me learning HTML back in 5th grade. A geek ever since, I've explored in's and outs of computing, right from the good ol' hardware side to the latest languages & frameworks.

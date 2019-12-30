@@ -5,6 +5,7 @@ meta_description: "Simple Blog of a developer jotting down his thoughts!"
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 baseurl:
+url: "https://saipy.com"
 production_url: https://saipy.com
 disqus: "saipy"
 mailchimp_url: "https://saipy.us4.list-manage.com/subscribe/post?u=6b7e15cc06544df68165a85c9&amp;id=6d32a09d3d"
@@ -87,4 +88,4 @@ sass:
   sass_dir: _sass
   style: compressed
 
-
+show_drafts: false
