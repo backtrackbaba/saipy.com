@@ -12,6 +12,7 @@ mailchimp_url: "https://saipy.us4.list-manage.com/subscribe/post?u=6b7e15cc06544
 cover_image: bg4.jpg
 # Add your GA Tracking Id
 ga_analytics: "UA-46861272-4"
+timezone: "Asia/Kolkata"
 
 # Author
 author:
@@ -89,3 +90,7 @@ sass:
   style: compressed
 
 show_drafts: false
+
+# Excluded Directories
+exclude:
+  - .idea/
